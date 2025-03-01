@@ -17,10 +17,9 @@ To complete this task, you must draw two memory diagrams for two objects that ar
 Download Assignment3.pdf, and complete these two diagrams by hand.
 
 ## Part 2: UML diagrams and inheritance
-Complete the questions about the two recursive methods in `Assignment2.pdf`.
+For this task, you need to imagine a program that manages a zoo of Animals and think about how you would design this program. In this task, you will sketch an outline of your program by writing UML diagrams for a hierarchy of classes related to animals. Specifically, you should have a UML for an Animal class. Then, you should create two subclasses for different types of animals (Reptile, Mammal, Amphibian, etc.), these subclasses should, themselves, each have two meangingful subclasses. Your UML diagrams must contain the name of each class, their instance variables, instance methods, and the symbols for the visibility modifiers (- for private, + for public, and # for protected). Each class must have at least 2 instance variables and 2 instance methods that are not inherited from a parent.
 
-Goals of this part:
- * Practice tracing and understanding recursive methods.
+Note: the protected visibility modifier is useful for the instance variables of parent classes when you would like subclasses to be able to refer to the parent variable.
  
 ## Part 3: Your Adventure Games
 Return to the map for your adventure game that you submitted for Assignment 1. In this assignment, you will add a class to represent the animals present in the rooms of your game and you will add treasure chests.
