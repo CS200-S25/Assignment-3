@@ -9,7 +9,7 @@ There are three parts for assignment 3:
 In the first task of the assignment, you will draw two memory diagrams to explain how objects are instantiated 
 and assigned through the execution of a program.
 
-For this exercise, download the files Library.java, Book.java, Member.java and Loan.java. You should first run the program from the
+For this exercise, download the files `Library.java`, `Book.java`, `Member.java` and `Loan.java`. You should first run the program from the
 `main()` in Library. Then, explore these classes to understand how this program is structured. You are encouraged to make any modifications
 to these files that allow you to better understand any parts of it, just make sure to return it to its original state to complete this task.
 
