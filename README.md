@@ -38,8 +38,5 @@ Submit the following files to Gradescope for Assignment 1:
 
 Note: You can resubmit your assignment as many times as needed until the deadline. Every time you resubmit, make sure you submit *all* of the files for your assignment every time.
 
-## GRADING RUBRIC
-Your assignment will be graded on accuracy, code style (including good name conventions for methods and variables you create, indentation, clean code) and meaningful documentation. Make sure that all of your files have header-level javadoc descriptions and that all of your methods also have javadoc. Include in-line comments sparsely, only to explain code (or a programming decision) that is not self-apparent.
-
 ## ASSIGNMENT SOLUTIONS
 Assignment solutions will not be shared. If you did not get full credit on the assignment, you should review the feedback and ask me or the TAs if you have further questions. 
